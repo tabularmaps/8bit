@@ -1,5 +1,5 @@
 # 8bit
-ISO 3166-1 on a 256x256 array
+ISO 3166-1 on a 16 x 16 = 256 array
 
 # usage
 ```javascript
